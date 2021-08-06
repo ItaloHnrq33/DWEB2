@@ -1,0 +1,14 @@
+{
+  "name": "projeto-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "jsonwebtoken": "8.5.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
